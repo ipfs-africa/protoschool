@@ -67,7 +67,7 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting chapter organizer **Sonia** at
+reported by contacting chapter organizer **Sonia John** at
 **[realchainlife@protonmail.com](mailto:realchainlife@protonmail.com)**. All complaints
 will be reviewed and investigated and will result in a response that is deemed
 necessary and appropriate to the circumstances. The chapter organizing team is
