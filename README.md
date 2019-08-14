@@ -12,6 +12,8 @@ For this chapter, we will be working with [Afrolynk Factory24](http://afrolynk.c
 
 To become a co-organizer contact any of the above listed organizers. We'll be organizing our first event soon, you're welcome to join.
 
+Working with [Afrolynk Factory24](http://afrolynk.com/factory/), we have launched a self-paced [Introduction To IPFS](https://factory24.org/course/interplanetary-file-system-ipfs-course/) course available for free. 
+
 ## Code of Conduct
 
 In the interest of fostering an open and welcoming environment, we as
