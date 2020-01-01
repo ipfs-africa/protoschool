@@ -11,7 +11,7 @@ For this chapter, we will be working with [Afrolynk's Factory24](https://factory
 * Sonia John ([@realChainLife](https://github.com/realChainLife))
 * Bilazan ([@bilazan](https://github.com/bilazan))
 
-To become a co-organizer contact any of the above listed organizers. We'll be organizing our first event soon, you're welcome to join.
+To become a co-organizer contact any of the above listed organizers.
 
 Working with [Afrolynk's Factory24](https://factory24.org), we have launched a self-paced [Introduction To IPFS](https://factory24.org/course/interplanetary-file-system-ipfs-course-2/) course available for free. 
 
