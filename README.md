@@ -6,7 +6,7 @@ We are a group of people passionate about the decentralized web and excited to l
 
 ## Organizers
 
-For this chapter, we will be working with [Afrolynk Factory24](https://factory24.org) to provide a platform for young Africans to develop tech skills through bootcamps & training by offering mentoring sessions and workshops. We currently offer developers opportunities to learn IoT, Blockchain and want to increase that scope to the Decentralized Web specifically IPFS/IPLD/libPp2p/Multiformats. Factory24 aims at acting as a stimulus to young entrepreneurs in Africa through bootcamps & training by offering mentoring sessions and workshops but also create a platform for these entrepreneurs to be exposed in an environment to meet potential employers.
+For this chapter, we will be working with [Afrolynk Factory24](https://factory24.org) to provide a platform for young Africans to develop tech skills through bootcamps & training by offering mentoring sessions and workshops. We currently offer developers opportunities to learn IoT, Blockchain and want to increase that scope to the Decentralized Web specifically IPFS/IPLD & libPp2p. Factory24 aims at acting as a stimulus to young entrepreneurs in Africa through bootcamps & training by offering mentoring sessions and workshops but also create a platform for these entrepreneurs to be exposed in an environment to meet potential employers.
 
 * Sonia John ([@realChainLife](https://github.com/realChainLife))
 * Bilazan ([@bilazan](https://github.com/bilazan))
