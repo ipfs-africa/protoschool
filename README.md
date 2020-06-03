@@ -6,21 +6,21 @@ We are a group of people passionate about the decentralized web and excited to l
 
 ## Organizers
 
-For this chapter, we will be working with [Scend Distributed]() to provide a platform for young Africans to develop tech skills through bootcamps & training by offering mentoring sessions and workshops. We currently offer developers opportunities to learn IoT, Blockchain and want to increase that scope to the Decentralized Web specifically IPFS/IPLD & libPp2p. Factory24 aims at acting as a stimulus to young entrepreneurs in Africa through bootcamps & training by offering mentoring sessions and workshops but also create a platform for these entrepreneurs to be exposed in an environment to meet potential employers.
+For this chapter, we are working with [Scend Distributed]() to provide a platform for the development of tech skills through courses, bootcamps & trainings. We currently offer developers opportunities to learn various decentralized web technologies including IPFS/IPLD & libPp2p. We also cover various layer two solutions and Protocol-extensible developer APIs & languages e.g. Web3.js, ether.js, Solidity, Rust. Scend Distributed champions the ability to easily and efficiently transfer value without centralized institutions acting as clearing agents which is at the heart of P2P & Web 3.0 technology.  
 
 * Sonia John ([@realChainLife](https://github.com/realChainLife))
-* Bilazan ([@bilazan](https://github.com/bilazan))
+* Stanley Hove ([@stanleyhove](https://github.com/stanleyhove))
 
 To become a co-organizer contact any of the above listed organizers. Follow this repo's issue tracker to stay informed of all upcoming 2020 events and meet ups.  
 
-Working with [Afrolynk's Factory24](https://factory24.org), we have launched a self-paced [Introduction To IPFS](https://factory24.org/course/interplanetary-file-system-ipfs-course-2/) course available for free. 
+Working with [Scend Distributed](), we have launched a self-paced online learning platform [Porium]() which hosted several beginner-to-advanced courses available for free. 
 
 ## Code of Conduct
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone.
 
-By participating in this project (online and at live chapter events) you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md).
+By participating in this project (online and at live chapter events) you agree to abide by its [Code of Conduct](https://github.com/nairobi-ipfs/code-of-conduct).
 
 ## License
 
-ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](https://github.com/protoschool/nairobi/blob/master/LICENSE.md) for further detail.
+ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](https://github.com/nairobi-ipfs/blob/master/LICENSE.md) for further detail.
