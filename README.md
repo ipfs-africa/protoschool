@@ -13,7 +13,7 @@ For this chapter, we are working with [Scend Distributed]() to provide a platfor
 
 To become a co-organizer contact any of the above listed organizers. Follow this repo's issue tracker to stay informed of all upcoming 2020 events and meet ups.  
 
-Working with [Scend Distributed](), we have launched a self-paced online learning platform [Porium]() which hosted several beginner-to-advanced courses available for free. 
+Working with [Scend Distributed](), we have launched a self-paced online learning platform [Porium]() which hosts several beginner-to-advanced courses available for free. 
 
 ## Code of Conduct
 
